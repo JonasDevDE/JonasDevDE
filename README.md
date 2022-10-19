@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![JonasDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasDevDE&theme=dracula&show_icons=true)
+
 ![Profile views](https://gpvc.arturio.dev/JonasDevDE)
 
 <!--
