@@ -1,5 +1,5 @@
 ### Hi there 👋
-Founder of the EternalEmpires project.
+Founder of EternalEmpires.
 
 See my Commits on https://github.com/Interguess/
 
