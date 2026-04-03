@@ -6,3 +6,6 @@
     <img src="https://skillicons.dev/icons?i=gcp,cloudflare,github,grafana,idea,java,gmail" alt="I use GCP, GitHub, Grafana, IntelliJ, Java, Gmail" /><br>
     <img src="https://skillicons.dev/icons?i=kubernetes,go,sentry,mongodb,docker" alt="Kubernetes, Go, Sentry, MongoDB and Docker" />
 </p>
+<p align="center">
+    <i>Chance is just Lack of Data</i>
+</p>
