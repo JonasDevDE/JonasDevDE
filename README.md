@@ -1,6 +1,3 @@
-### Hello there 👋
-
-Hey, I'm Jonas. I'm training to become an IT specialist for application development and love turning creative ideas into code. I'm currently focused on *Eternal Empires*, a Minecraft MMORPG that blends game mechanics, system design, and creative freedom. Outside of coding, I enjoy traveling, nature, and snowboarding – the balance between tech and the outdoors keeps me inspired. On GitHub, I share projects and experiments that help me grow and refine my ideas.
-
-I publish most of the code in the [Interguess organization](https://github.com/Interguess) or the [Eternal Empires organization](https://github.com/EternalEmpires). Have a look there if you are interested in my work.
-
+<img width="4086" height="576" alt="Group 1 (4)" src="https://github.com/user-attachments/assets/aff7f731-26e2-4a5a-8a0e-c9fac37354ed" />
+<br><br>
+<img width="4086" height="576" alt="Group 2 (2)" src="https://github.com/user-attachments/assets/c9babd37-fcdf-409d-99af-f4e641723a4a" />
