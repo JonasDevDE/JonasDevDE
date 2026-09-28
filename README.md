@@ -1,5 +1,5 @@
 <!-- Copyright (C) 2026 Jonas Schnell -->
-<img width="1550" height="515" alt="Group 250 (2)" src="https://github.com/user-attachments/assets/fe6eff93-0b72-4028-8b98-e604532300ef" />
+<img width="1529" height="494" alt="Group 250 (2) 1" src="https://github.com/user-attachments/assets/c6a06df7-945c-4ab3-93eb-e12a8a4f80d7" />
 
 <!-- <a href="#"><img alt="About me: I’m Jonas, 19 years old, from Wolfsburg. I am currently completing my apprenticeship at Germany’s highest-revenue corporation while simultaneously building my own company. My interests include snowboarding, entrepreneurship, fitness, and enjoying life to the fullest. For 2026, I have set a precise roadmap of goals that I am determined to achieve by the end of the year." src="https://github.com/user-attachments/assets/2c22aaeb-3bb3-4d6c-a53a-f570eb8966d5" /></a>
 <br><br>
